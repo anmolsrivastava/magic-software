@@ -1,0 +1,23 @@
+{
+  "name": "interview-questions",
+  "version": "1.0.0",
+  "description": "Magic Software Interview Questions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmolsrivastava/magic-software.git"
+  },
+  "author": "Anmol Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmolsrivastava/magic-software/issues"
+  },
+  "homepage": "https://github.com/anmolsrivastava/magic-software#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jsonexport": "^2.3.0"
+  }
+}
